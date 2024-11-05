@@ -1,0 +1,4 @@
+1. When the length of the list is 1
+2. by keep spliting between two halfs
+3.Splicing 
+4.Instead of looking for the smallest item it would be easier if you knew if was at index 0
